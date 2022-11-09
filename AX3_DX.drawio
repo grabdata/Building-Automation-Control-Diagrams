@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T06:02:13.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.77" etag="mNpTH16fimRKvglrJ0lU" version="20.5.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-11-09T06:03:02.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.77" etag="iDWtavbDVgumwngyzcpf" version="20.5.3" type="github" pages="9">
   <diagram id="4l0VnE-pw2lBxwPgpEtc" name="DX Conn Diag">
     <mxGraphModel dx="2845" dy="4796" grid="1" gridSize="21" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -2964,13 +2964,13 @@
           <mxGeometry x="36.44071049205582" width="873.5492895079443" height="661.1726829659692" as="geometry" />
         </mxCell>
         <mxCell id="deldqjcnkKUHMcO8vitU-67" value="" style="group" vertex="1" connectable="0" parent="deldqjcnkKUHMcO8vitU-66">
-          <mxGeometry width="851.8420059584066" height="661.1726829659692" as="geometry" />
+          <mxGeometry width="871.0080999547799" height="661.1726829659692" as="geometry" />
         </mxCell>
         <mxCell id="deldqjcnkKUHMcO8vitU-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="deldqjcnkKUHMcO8vitU-67">
           <mxGeometry x="-5.884622901859325" width="826.9453032206742" height="626.763348259963" as="geometry" />
         </mxCell>
-        <mxCell id="deldqjcnkKUHMcO8vitU-69" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 39px; font-family: &amp;quot;Lucida Console&amp;quot;; background-color: initial;&quot;&gt;Protech CC Model&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 39px; line-height: 0;&quot;&gt;Controller Module (Ax3)&lt;/font&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=144;" vertex="1" parent="deldqjcnkKUHMcO8vitU-67">
-          <mxGeometry x="91.00809995477996" y="-60.37936379089919" width="640" height="360" as="geometry" />
+        <mxCell id="deldqjcnkKUHMcO8vitU-69" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 39px; font-family: &amp;quot;Lucida Console&amp;quot;; background-color: initial;&quot;&gt;Protech DX/DXD/DXH/DXHD Model&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 39px; line-height: 0;&quot;&gt;Controller Module (Ax3)&lt;/font&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=144;" vertex="1" parent="deldqjcnkKUHMcO8vitU-67">
+          <mxGeometry x="-0.0019000452200401696" y="40.000636209100804" width="780" height="360" as="geometry" />
         </mxCell>
         <mxCell id="deldqjcnkKUHMcO8vitU-70" value="Rly 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="deldqjcnkKUHMcO8vitU-67">
           <mxGeometry x="821.0590105248242" y="464.01699013910877" width="39.71768880784579" height="39.71768880784579" as="geometry" />
