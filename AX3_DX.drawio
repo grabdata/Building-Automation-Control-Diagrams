@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T07:04:26.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="WI2HqyGhQaCmlU9m3Fy0" version="20.6.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-12-13T07:06:16.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="dXJwJimMXaPRPbgQdzTA" version="20.6.2" type="github" pages="10">
   <diagram id="4l0VnE-pw2lBxwPgpEtc" name="DX Conn Diag">
     <mxGraphModel dx="3440" dy="5038" grid="1" gridSize="21" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -2856,7 +2856,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DXHD Control Diag" id="fvVBqUuPwLtk9JLJ9XcD">
-    <mxGraphModel dx="1529" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2293" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="deldqjcnkKUHMcO8vitU-0" />
         <mxCell id="deldqjcnkKUHMcO8vitU-1" parent="deldqjcnkKUHMcO8vitU-0" />
@@ -3880,6 +3880,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VX5dIbp_75SM_GFdpYuC-38" value="Coil1&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GN6dtdWIVFZhzgo6Qwq5-4">
+          <mxGeometry x="631.53" y="520" width="50" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="PrDPs-S2rRmD7rs_viSE-68" value="" style="group;" parent="deldqjcnkKUHMcO8vitU-1" vertex="1" connectable="0">
           <mxGeometry x="1680" y="940" width="860.6299999999997" height="579.8149999999998" as="geometry" />
         </mxCell>
@@ -4076,6 +4079,21 @@
               <mxPoint x="2912" y="1350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VX5dIbp_75SM_GFdpYuC-36" value="SAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="deldqjcnkKUHMcO8vitU-1">
+          <mxGeometry x="2215" y="1515" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VX5dIbp_75SM_GFdpYuC-37" value="FAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="deldqjcnkKUHMcO8vitU-1">
+          <mxGeometry x="2280" y="1515" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VX5dIbp_75SM_GFdpYuC-39" value="Coil2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="deldqjcnkKUHMcO8vitU-1">
+          <mxGeometry x="2415" y="1515" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VX5dIbp_75SM_GFdpYuC-40" value="RS-485" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="deldqjcnkKUHMcO8vitU-1">
+          <mxGeometry x="2030" y="1515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VX5dIbp_75SM_GFdpYuC-41" value="VFD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="deldqjcnkKUHMcO8vitU-1">
+          <mxGeometry x="1845" y="1515" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
